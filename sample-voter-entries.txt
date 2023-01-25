@@ -1,0 +1,26 @@
+
+Voter 1 which has voted
+Full Name: Hugh Phung
+Address: 275 Clarke Street
+Suburb: NORTHCOTE
+State: VIC
+Postcode: 3070
+
+
+***************************************
+
+Voter 2 which has NOT voted
+Full Name: Clara Olivia
+Address: 556 Swanston Street
+Suburb: CARLTON
+State: VIC
+Postcode: 3053
+
+***************************************
+
+Voter 3 which has NOT voted
+Full Name: Amy Pond
+Address: 252 Domain Road
+Suburb: SOUTH YARRA
+State: VIC
+Postcode: 3141
